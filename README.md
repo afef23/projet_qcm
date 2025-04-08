@@ -1,6 +1,7 @@
 # Projet QCM
 
 Ce projet est une application web permettant aux utilisateurs de créer, modifier et participer à des questionnaires à choix multiples (QCM). Il inclut un système d'authentification, la gestion des QCM et l'envoi d'emails de confirmation via PHPMailer et Mailtrap.
+Elle a été réalisée dans le cadre d'une formation.
 
 ## 📌 Fonctionnalités
 
